@@ -111,7 +111,7 @@ static const Key keys[] = {
 	{ MODKEY, 			XK_Menu, 		spawn, 		SHCMD("geany /home/u/d/etc/t.txt") },
 	{ MODKEY, 			XK_slash, 		spawn, 		SHCMD("chromium --new-window") },
 	{ MODKEY, 			XK_Page_Down, 	spawn, 		SHCMD("feh --bg-fill --randomize ~/i/wp/*") },
-	{ MODKEY,    		XK_Super_L, 	spawn,  	SHCMD("alacritty -e mpv --no-audio-display --shuffle --loop-playlist=inf /home/u/m/z") },
+	{ MODKEY,    		XK_Super_L, 	spawn,  	SHCMD("alacritty -e mpv --no-audio-display --shuffle --loop-playlist=inf /home/u/m") },
 };
 
 /* button definitions */
