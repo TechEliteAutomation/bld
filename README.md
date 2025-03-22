@@ -1,16 +1,16 @@
 # TechEliteAutomation Builds
 
-This repository contains my custom builds of suckless software tools optimized for Arch Linux.
+This repository contains my custom builds of 'suckless' software tools optimized for Arch Linux.
 
 ## Overview
 
-The `bld` repository houses minimal, performance-focused builds of suckless software that I've customized for my personal workflow on Arch Linux with a focus on efficiency and minimalism.
+The `bld` repository houses minimal, performance-focused builds of 'suckless' software that I've customized for my personal workflow on Arch Linux with a focus on efficiency and minimalism.
 
 ## Included Builds
 
 ### dwm (Dynamic Window Manager)
 
-A highly customized build of the suckless dynamic window manager with:
+A highly customized build of the 'suckless' dynamic window manager with:
 
 - Optimized for keyboard-driven workflow
 - Custom keybindings for efficient window management
@@ -19,7 +19,7 @@ A highly customized build of the suckless dynamic window manager with:
 
 → [View dwm configuration](./dwm/)
 
-### slstatus (Suckless Status Monitor)
+### slstatus ('suckless' Status Monitor)
 
 A lightweight status monitor displaying essential system information:
 
@@ -92,4 +92,4 @@ These builds are designed for minimal resource usage while providing all essenti
 
 ## License
 
-These projects are based on software from [suckless.org](https://suckless.org) and are distributed per the LICENSE file of each.
+These projects utilize software from [suckless.org](https://suckless.org), distributed under the terms specified in their respective LICENSE files.
