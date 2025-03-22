@@ -85,11 +85,3 @@ After making changes, rebuild the respective tool with `sudo make clean install`
 ## Performance
 
 These builds are designed for minimal resource usage while providing all essential functionality. They work exceptionally well on older hardware and are thoroughly optimized for the DWM/Arch workflow.
-
-## Related Projects
-
-[TechEliteAutomation](https://github.com/TechEliteAutomation) for other Arch Linux tools and automation scripts
-
-## License
-
-These projects utilize software from [suckless.org](https://suckless.org), distributed under the terms specified in their respective LICENSE files.

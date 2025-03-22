@@ -105,10 +105,6 @@ This build uses the Solarized Dark color scheme with blue accent for selected it
 - Alt+Right click: Resize window
 - Alt+Middle click: Toggle floating state
 
-## Related Projects
-
-[Tech Elite Automation](https://github.com/TechEliteAutomation) for more Arch Linux tools and automation scripts.
-
 ---
 
 *This is a fork of [dwm](https://dwm.suckless.org/) by suckless.org*
