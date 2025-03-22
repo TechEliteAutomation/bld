@@ -107,4 +107,10 @@ This build uses the Solarized Dark color scheme with blue accent for selected it
 
 ---
 
+## License
+
+This project is released under the MIT/X Consortium License - see the original dwm repository for details.
+
+---
+
 *This is a fork of [dwm](https://dwm.suckless.org/) by suckless.org*

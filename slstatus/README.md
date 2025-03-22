@@ -78,11 +78,7 @@ The full slstatus tool supports the following metrics which can be added to your
 
 ## License
 
-This project is licensed under the ISC License - see the original slstatus repository for details.
-
-## Related Projects
-
-[Tech Elite Automation](https://github.com/TechEliteAutomation) for more Arch Linux tools and automation scripts.
+This project is released under the ISC License - see the original slstatus repository for details.
 
 ---
 
