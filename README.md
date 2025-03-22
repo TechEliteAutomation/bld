@@ -33,7 +33,8 @@ A lightweight status monitor displaying essential system information:
 
 ## Screenshots
 
-![Desktop Screenshot](screenshot.png)
+![slstatus in action](/slstatus/screenshot.png)
+![dwm in action](/dwm/screenshot.png)
 
 ## Requirements
 
