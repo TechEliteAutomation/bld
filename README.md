@@ -1,4 +1,4 @@
-# TechEliteAutomation - `bld` Repository
+# [TechEliteAutomation.com](https://techeliteautomation.com) - `bld` Repository
 
 This repository contains custom builds of 'suckless' software tools optimized for Arch Linux.
 
