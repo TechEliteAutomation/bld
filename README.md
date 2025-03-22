@@ -12,7 +12,7 @@ The `bld` repository houses minimal, performance-focused builds of 'suckless' so
 
 A highly customized build of the 'suckless' dynamic window manager with:
 
-- Optimized for keyboard-driven workflow
+- Keyboard-driven workflow optimizations
 - Custom keybindings for efficient window management
 - Minimalist aesthetic with a clean status bar
 - Performance tweaks for Arch Linux
