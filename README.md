@@ -88,8 +88,8 @@ These builds are designed for minimal resource usage while providing all essenti
 
 ## Related Projects
 
-Check out my other Arch Linux tools and automation scripts at [TechEliteAutomation](https://github.com/TechEliteAutomation).
+[TechEliteAutomation](https://github.com/TechEliteAutomation) for other Arch Linux tools and automation scripts
 
 ## License
 
-These projects are based on software from [suckless.org](https://suckless.org) and are distributed under the MIT/X Consortium License.
+These projects are based on software from [suckless.org](https://suckless.org) and are distributed per the LICENSE file of each.

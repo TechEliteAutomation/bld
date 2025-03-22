@@ -78,7 +78,7 @@ The full slstatus tool supports the following metrics which can be added to your
 
 ## License
 
-This project is licensed under the MIT/X Consortium License - see the original slstatus repository for details.
+This project is licensed under the ISC License - see the original slstatus repository for details.
 
 ## Related Projects
 
