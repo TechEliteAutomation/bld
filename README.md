@@ -4,7 +4,7 @@ This repository contains custom builds of 'suckless' software tools optimized fo
 
 ## Overview
 
-The `bld` repository houses minimal, performance-focused builds of 'suckless' software that I've customized for my personal workflow on Arch Linux with a focus on efficiency and minimalism.
+The `bld` repository houses minimal, performance-focused builds of 'suckless' software customized for high-performance development workflows on Arch Linux with a focus on efficiency and minimalism.
 
 ## Included Builds
 
