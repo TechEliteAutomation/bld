@@ -85,3 +85,9 @@ After making changes, rebuild the respective tool with `sudo make clean install`
 ## Performance
 
 These builds are designed for minimal resource usage while providing all essential functionality. They work exceptionally well on older hardware and are thoroughly optimized for the DWM/Arch workflow.
+
+## Licenses
+
+`dwm` is released under the MIT/X Consortium License - see the original dwm repository for details.
+
+`slstatus` is released under the ISC License - see the original slstatus repository for details.
