@@ -104,6 +104,7 @@ static const Key keys[] = {
 	TAGKEYS(            XK_9,                      	8)
 	{ MODKEY|ShiftMask, XK_q,      		quit,       {0} },
 	{ MODKEY|ShiftMask, XK_v,           spawn,  	SHCMD("alacritty -e pulsemixer") },
+	{ MODKEY|ShiftMask, XK_g,           spawn,  	SHCMD("alacritty -e /home/u/s/bin/git.sync.sh") },
 	{ MODKEY, 			XK_equal, 		spawn, 		SHCMD("galculator") },
 	{ MODKEY,           XK_F9,         	spawn,  	SHCMD("gnome-screenshot") },
 	{ MODKEY,			XK_F10,         spawn,  	SHCMD("slock") },
