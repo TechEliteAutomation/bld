@@ -109,7 +109,7 @@ static const Key keys[] = {
 	{ MODKEY,           XK_F9,         	spawn,  	SHCMD("gnome-screenshot") },
 	{ MODKEY,			XK_F10,         spawn,  	SHCMD("slock") },
 	{ MODKEY,      		XK_Home, 		spawn,  	SHCMD("pcmanfm") },
-	{ MODKEY, 			XK_Menu, 		spawn, 		SHCMD("geany /home/u/d/main/t.txt") },
+	{ MODKEY, 			XK_Menu, 		spawn, 		SHCMD("geany /home/u/d/main/t.md") },
 	{ MODKEY, 			XK_slash, 		spawn, 		SHCMD("chromium --new-window") },
 	{ MODKEY, 			XK_Page_Down, 	spawn, 		SHCMD("feh --bg-fill --randomize ~/i/wp/*") },
 	{ MODKEY,    		XK_Super_L, 	spawn,  	SHCMD("alacritty -e mpv --no-audio-display --shuffle --loop-playlist=inf /home/u/m") },
