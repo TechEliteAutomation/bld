@@ -2,16 +2,16 @@ static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "JetBrainsMono Nerd Font:size=14" };
-static const char dmenufont[]       = "JetBrainsMono Nerd Font:size=14";
-static const char col_base03[]      = "#002b36"; /* Background */
-static const char col_base02[]      = "#073642"; /* Lighter Background */
-static const char col_base01[]      = "#586e75"; /* Comments, Secondary Content */
-static const char col_base00[]      = "#657b83"; /* Default Foreground */
-static const char col_base0[]       = "#839496"; /* Lighter Foreground */
-static const char col_base1[]       = "#93a1a1"; /* Lighter Content */
-static const char col_base2[]       = "#eee8d5"; /* Light Background */
-static const char col_base3[]       = "#fdf6e3"; /* Very Light Background */
+static const char *fonts[]          = { "JetBrainsMono Nerd Font:size=14:antialias=true:autohint=true" };
+static const char dmenufont[]       = "JetBrainsMono Nerd Font:size=14:antialias=true:autohint=true";
+static const char col_base03[]      = "#002b36";
+static const char col_base02[]      = "#073642";
+static const char col_base01[]      = "#586e75";
+static const char col_base00[]      = "#657b83";
+static const char col_base0[]       = "#839496";
+static const char col_base1[]       = "#93a1a1";
+static const char col_base2[]       = "#eee8d5";
+static const char col_base3[]       = "#fdf6e3";
 static const char col_yellow[]      = "#b58900";
 static const char col_orange[]      = "#cb4b16";
 static const char col_red[]         = "#dc322f";
@@ -21,13 +21,13 @@ static const char col_blue[]        = "#268bd2";
 static const char col_cyan[]        = "#2aa198";
 static const char col_green[]       = "#859900";
 static const char *colors[][3]      = {
-	/*               fg          bg          border   */
-	[SchemeNorm] = { col_base0,  col_base03, col_base01 }, /* Unfocused */
-	[SchemeSel]  = { col_base3,  col_blue,   col_blue  }, /* Focused */
+    /*               fg         bg         border   */
+    [SchemeNorm] = { col_base0, col_base03, col_base02 },
+    [SchemeSel]  = { col_base03, col_cyan,   col_blue  },
 };
 
 /* tagging */
-static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8" };
+static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7" };
 
 /* rules */
 static const Rule rules[] = {
